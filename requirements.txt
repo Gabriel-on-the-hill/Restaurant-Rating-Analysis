@@ -1,0 +1,8 @@
+
+
+#import the necessary python libraries
+
+import pandas as pd #we will utilise pandas for manipulating Data frames
+import matplotlib.pyplot as plt # to help create plots for data visualisation
+import seaborn as sns # to help create plots for data visualisation
+import numpy as np #to manipulate numerical data
